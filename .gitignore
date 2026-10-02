@@ -1,1 +1,24 @@
-/target
+# Rust/Cargo
+/target/                // Директория сборки (может весить гигабайты!)
+**/*.rs.bk              // Бэкапы rustfmt
+Cargo.lock              // Для библиотек (не для бинарников!)
+
+# Секреты
+.env                    // Переменные окружения
+.env.local
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ОС
+.DS_Store               // macOS
+Thumbs.db               // Windows
+
+# Логи
+*.log
