@@ -1,1 +1,1 @@
-D:\Learn\rust-course\exercises\Dungeon_Echo\target\debug\Dungeon_Echo.exe: D:\Learn\rust-course\exercises\Dungeon_Echo\src\main.rs
+D:\Learn\rust-course\exercises\Dungeon_Echo\target\debug\Dungeon_Echo.exe: D:\Learn\rust-course\exercises\Dungeon_Echo\src\game.rs D:\Learn\rust-course\exercises\Dungeon_Echo\src\location.rs D:\Learn\rust-course\exercises\Dungeon_Echo\src\main.rs

@@ -3,5 +3,6 @@ mod game;
 
 
 fn main() {
-    println!("Hello, world!");
+    let descr = location::get_description(&game::Location::DarkCave);
+    println!("{}", descr);
 }
