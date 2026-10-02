@@ -1,10 +1,6 @@
-pub enum Location {
-    Entrance, 
-    DarkCave, 
-    TreasureRoom, 
-    TrapCorridor,
-    Exit,
-}
+mod location;
+mod game;
+
 
 fn main() {
     println!("Hello, world!");
